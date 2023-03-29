@@ -17,7 +17,7 @@ please write down your name and your project in this format 1. [your name]: [you
 6. Sana Rzgar : [Code](https://github.com/Sanaa00/portfolioo.git)
 7. lanya yousif :[Code](https://github.com/lanyayousif/Myportfolio.git) | [Demo](https://lanyayousif.netlify.app)
 8. Sahand Azad :[Code](https://github.com/SahandB99/myPortfolio) | [Demo](https://sahand-portfolio.netlify.app/)
-9. Nwa Hameed: [Code](https://github.com/nwahameed/Portfolio) | [Demo] (https://nwaportfolio.netlify.app/)
+9. Nwa Hameed: [Code](https://github.com/nwahameed/Portfolio) | [Demo](https://nwaportfolio.netlify.app/)
 10. Bishwan Sherko: [Code](https://github.com/bishwan00/portfolio.git) | [Demo](https://bishwan.vercel.app/)
 11. sozan khalil: [Code](https://github.com/sozankhalil/myPortfolio) | [Demo](https://64240c78184ef405e90c634c--brilliant-lebkuchen-f9695f.netlify.app/)
 12. Rozh Bahman: [Code](https://github.com/rozhi-98/Protfolio-with-react-and-tailwind/tree/main) | [Demo](https://rozhs-portfolio.netlify.app/)
