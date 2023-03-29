@@ -11,7 +11,7 @@ please write down your name and your project in this format 1. [your name]: [you
 
 1. Rayan Salah:[Code](https://github.com/rayansalah11/portfolio)
 2. Shajwan Namiq: [Code](https://github.com/Shajwan-Namiq/portfolio-using-react) | [Demo](https://shajwan-namiq.netlify.app/)
-3. Muhammed Abdulla: [Code](https://github.com/marshallmhamad/Portfolio-Site)
+3. Muhammed Abdulla: [Code](https://github.com/marshallmhamad/Portfolio-Site) | [Demo](https://64240a57d627b60953720904--sparkly-pastelito-81aa7b.netlify.app/)
 4. Shazyar abubakr: [Code](https://github.com/shazyarabubakr/portfolio)|[Demo](https://shazaabubakr.netlify.app/)
 5. Hevar Tofiq: [Code](https://github.com/RageOfKurd/RageOfKurd-portfolio) | [Demo](https://rageofkurd.netlify.app/)
 6. Sana Rzgar : [Code](https://github.com/Sanaa00/portfolioo.git)
